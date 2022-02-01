@@ -1,6 +1,6 @@
 import turtle, random
 apals = turtle.Turtle()
-apals.color("pink")
+apals.color("green")
 apals.up()
 apals.setpos(100, -21)
 apals.down()
